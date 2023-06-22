@@ -1,0 +1,24 @@
+[RESOURCES]
+Nalogovii inspector
+Registrator
+[VARIABLES]
+Rassmotrenie nalogovih deklaracii.NumberOut
+Rassmotrenie nalogovih deklaracii.NumberIn
+Registraciya nalogovoy deklaracii.NumberOut
+Registraciya nalogovoy deklaracii.NumberIn
+Generaciya potoka nalogovih deklaracii.NumberOut
+Zaregistrirovat nalogovuyu deklaraciyu?.NumberOut True
+Vozvrashennie pri registr.NumberOut
+Registraciya nalogovoy deklaracii.VATime
+Registraciya nalogovoy deklaracii.VACost
+Prinyat nalogovuyu deklaraciyu?.NumberOut False
+Prinyatye.NumberOut
+Prinyat nalogovuyu deklaraciyu?.NumberOut True
+Rassmotrenie nalogovih deklaracii.WaitTime
+Rassmotrenie nalogovih deklaracii.WaitCost
+Vozvrashennie pri rassmotr.NumberOut
+Registraciya nalogovoy deklaracii.WaitTime
+Registraciya nalogovoy deklaracii.WaitCost
+Rassmotrenie nalogovih deklaracii.VATime
+Rassmotrenie nalogovih deklaracii.VACost
+Zaregistrirovat nalogovuyu deklaraciyu?.NumberOut False

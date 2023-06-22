@@ -1,0 +1,18 @@
+[RESOURCES]
+Nancy
+Judy
+ATM for drivers
+ATM Machine
+[VARIABLES]
+Obsluzhivanie.NumberOut
+Obsluzhivanie.NumberIn
+Obsluzhivanie na kasse.NumberIn
+Obsluzhivanie na kasse.NumberOut
+Vihod na ulicu.NumberOut
+Viezd na ulicu.NumberOut
+Pribitie clientov na avto.NumberOut
+Obsluzhivanie drivers.NumberIn
+Obsluzhivanie drivers.NumberOut
+Pribitie clientov.NumberOut
+Vihod na ulicu_2.NumberOut
+Pribitie clientov k kassiram.NumberOut

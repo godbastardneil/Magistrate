@@ -1,0 +1,21 @@
+[RESOURCES]
+pech
+[VARIABLES]
+pribyil
+max_t_obzhiga_1
+Obzhig konteynerov.NumberOut
+max_t_obzhiga_2
+zatratyi
+Raspredelenie konteynerov po ocheredyam.NumberOut False
+Organizaciya ocheredi_1.NumberOut
+Organizaciya ocheredi_2.NumberOut
+t_obzhiga
+zatratyi_na_ochered
+Obozhyennyie konteyneryi.NumberOut
+Pribytie konteynerov.NumberOut
+pech_zanyata
+Obzhig konteynerov.NumberIn
+Raspredelenie konteynerov po ocheredyam.NumberOut True
+max_t_obzhiga
+chistaya_pribyil
+obschie_zatratyi

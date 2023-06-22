@@ -1,0 +1,33 @@
+[RESOURCES]
+[VARIABLES]
+osn_kanal.NumberOut
+vosstanovlenie.NumberOut
+vosstanovlenie.NumberIn
+AB2.NumberIn
+Uehalo pass.NumberOut
+Punkt B.NumberOut
+pribitie pass.NumberOut
+Ubitie avto.NumberOut
+Dispose 2.NumberOut
+Process 1.NumberIn
+Net sboya?.NumberOut True
+pribitie avto.NumberOut
+Po kakomu kanalu poidet paket?.NumberOut True
+Sboy_v_sist.NumberOut
+Create 1.NumberOut
+reserv_kanal.NumberIn
+Dispose 1.NumberOut
+Nacopitel.NumberOut
+AB2.NumberOut
+osn_kanal.NumberIn
+AB1.NumberIn
+Sboy
+reserv_kanal.NumberOut
+Net sboya?.NumberOut False
+Razdelitel.NumberOut Orig
+Po kakomu kanalu poidet paket?.NumberOut False
+Dispose 3.NumberOut
+Punkt A.NumberOut
+AB1.NumberOut
+Entry_data.NumberOut
+Process 1.NumberOut
